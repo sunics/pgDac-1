@@ -10,4 +10,5 @@ void addTwo()
 void main()
 
 {
+	addTWo();
 }
